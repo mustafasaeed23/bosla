@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333330848951",
+    "project_id": "boslaapp-39651",
+    "storage_bucket": "boslaapp-39651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333330848951:android:d7d06ea6f531e3aaf0c132",
+        "android_client_info": {
+          "package_name": "com.example.bosla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtF6IG2HxdZBCPKxtCHq9zG2dtY9r4q0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
